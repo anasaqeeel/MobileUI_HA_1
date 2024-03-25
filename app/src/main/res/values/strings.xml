@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chatify</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="MALE">Male</string>
+    <string name="tab1">One</string>
+    <string name="tab2">Two</string>
+    <string name="tab3">Three</string>
+    <string name="itabs">Icon And Text!</string>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <string name="FEMALE">Female</string>
+    <color name="navy">#000080</color>
+    <string name="signup_button">SIGN UP</string>
+    <string name="login_prompt">Already have an account? Login now</string>
+    <string name="exit_button">EXIT</string>
+    <string name="already_have_account">Already have an account? Login here</string>
+    <string name="tab_one" />
+    <string name="tab_two" />
+</resources>

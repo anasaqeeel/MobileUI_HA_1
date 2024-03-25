@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="input_text_size">16sp</dimen>
+     <dimen name="logo_heading">28sp</dimen>
+        <dimen name="radio">20sp</dimen>
+        <dimen name="supbtn">20sp</dimen>
+        <dimen name="logindir">18sp</dimen>
+        <dimen name="tabp">24sp</dimen>
+        <dimen name="username">20sp</dimen>
+        <dimen name="bio">12sp</dimen>
+</resources>
